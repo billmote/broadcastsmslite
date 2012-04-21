@@ -1,11 +1,6 @@
 {
     "results":[
         {
-            "_id":"116",
-            "version_name":"2.11",
-            "reason_to_upgrade":"More consistent UI. New keyboard input mode for SMS messages."
-        },
-        {
             "_id":"115",
             "version_name":"2.10",
             "reason_to_upgrade":"Visual tweaks."
