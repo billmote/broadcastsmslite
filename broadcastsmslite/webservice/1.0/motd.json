@@ -1,6 +1,11 @@
 {
     "results":[
         {
+            "_id":"123",
+            "version_name":"2.18",
+            "reason_to_upgrade":"Fixed a FC related to the new dialog."
+        },
+        {
             "_id":"122",
             "version_name":"2.17",
             "reason_to_upgrade":"Added progress dialog to indicate activity after selecting a group."
