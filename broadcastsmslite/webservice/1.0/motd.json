@@ -1,24 +1,14 @@
 {
     "results":[
         {
-            "_id":"126",
-            "version_name":"2.21",
+            "_id":"127",
+            "version_name":"2.22",
             "reason_to_upgrade":"Fixed a FC related to the new dialog."
         },
         {
             "_id":"125",
             "version_name":"2.20",
             "reason_to_upgrade":"Updated icons."
-        },
-        {
-            "_id":"124",
-            "version_name":"2.19",
-            "reason_to_upgrade":"Fixed a FC related to the new dialog."
-        },
-        {
-            "_id":"123",
-            "version_name":"2.18",
-            "reason_to_upgrade":"Fixed a FC related to the new dialog."
         },
         {
             "_id":"122",
