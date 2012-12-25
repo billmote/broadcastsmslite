@@ -1,6 +1,11 @@
 {
     "results":[
         {
+            "_id":"124",
+            "version_name":"2.19",
+            "reason_to_upgrade":"Fixed a FC related to the new dialog & updated icon."
+        },
+        {
             "_id":"123",
             "version_name":"2.18",
             "reason_to_upgrade":"Fixed a FC related to the new dialog."
