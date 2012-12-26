@@ -1,8 +1,8 @@
 {
     "results":[
         {
-            "_id":"128",
-            "version_name":"2.23",
+            "_id":"129",
+            "version_name":"2.24",
             "reason_to_upgrade":"Fixed a FC related to the new dialog."
         },
         {
