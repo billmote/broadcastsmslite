@@ -1,6 +1,11 @@
 {
     "results":[
         {
+            "_id":"130",
+            "version_name":"2.25",
+            "reason_to_upgrade":"Fixed a FC related to the MOTD dialog."
+        },
+        {
             "_id":"129",
             "version_name":"2.24",
             "reason_to_upgrade":"Fixed a FC related to the new dialog."
@@ -71,8 +76,8 @@
             "reason_to_upgrade":"Refactoring and bug fixes."
         }
     ],
-    "motd_id":8,
-    "motd_text":"Happy Holidays to you and your family.",
+    "motd_id":9,
+    "motd_text":"Looking for feedback and/or feature ideas.  Shoot me an e-mail.",
     "upgrade_url":"market://details?id=com.aydabtudev.BroadcastSMS",
     "result_hash":"79054025255fb1a26e4bc422aef54eb4",
     "motd_frequency":"0,d",
