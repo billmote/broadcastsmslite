@@ -1,6 +1,11 @@
 {
     "results":[
         {
+            "_id":"134",
+            "version_name":"2.26",
+            "reason_to_upgrade":"Added a premium purchase to remove ads."
+        },
+        {
             "_id":"130",
             "version_name":"2.25",
             "reason_to_upgrade":"Fixed a FC related to the MOTD dialog."
