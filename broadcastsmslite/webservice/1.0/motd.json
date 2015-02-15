@@ -1,6 +1,11 @@
 {
     "results":[
         {
+            "_id":"143",
+            "version_name":"2.41",
+            "reason_to_upgrade":"Updated to the latest Google Play Services, fixed a couple of bugs."
+        },
+        {
             "_id":"142",
             "version_name":"2.40",
             "reason_to_upgrade":"Updated to the latest Contacts API resulting in significant performance improvements."
