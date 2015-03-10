@@ -116,8 +116,8 @@
             "reason_to_upgrade":"Refactoring and bug fixes."
         }
     ],
-    "motd_id":15,
-    "motd_text":"Working on updates, fixing crashes, etc.  E-mail bill@android-fu.com with suggestions.",
+    "motd_id":16,
+    "motd_text":"Try SHOUT! A re-write of BroadcastSMS with a cleaner interface. market://details?id=com.androidfu.shout",
     "upgrade_url":"market://details?id=com.aydabtudev.BroadcastSMS",
     "result_hash":"79054025255fb1a26e4bc422aef54eb4",
     "motd_frequency":"0,d",
