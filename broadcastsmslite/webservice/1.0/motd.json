@@ -1,6 +1,11 @@
 {
     "results":[
         {
+            "_id":"145",
+            "version_name":"2.43",
+            "reason_to_upgrade":"Updated MoPub to fix a vulnerability, added explicit request for READ_PHONE_STATE required by Android O."
+        },
+        {
             "_id":"144",
             "version_name":"2.42",
             "reason_to_upgrade":"Fixed a crash caused by Google's In App Billing Helper."
